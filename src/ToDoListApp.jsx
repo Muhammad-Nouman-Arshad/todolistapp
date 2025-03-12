@@ -37,7 +37,7 @@ const ToDoListApp = () => {
   }
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-gray-3g00 p-4">
+    <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100 p-4">
       <h1 className="text-3xl font-bold mb-6">To Do List App</h1>
 
       <div className="flex gap-2 mb-4">
